@@ -1,0 +1,3 @@
+,Test1_yolov8n,Test2_yolov8n_5epochs,Test3_scratch_5epochs,Test4_scratch_15epochs
+0,0.0005,0.4378,0.084,0.202
+1,0.0003,0.4428,0.0833,0.2042

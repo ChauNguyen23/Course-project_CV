@@ -1,0 +1,8 @@
+path: C:\Users\choun\Documents\Winter 2024 courses\CSCI4220- Computer Vision\Labs\Lab1\dataset\archive/
+train: images/train/
+val: images/val/
+test: images/test/
+
+nc: 4
+
+names: ["trafficlight", "stop", "speedlimit",  "crosswalk"]
